@@ -8,7 +8,7 @@ You'll need to have a few things installed globally to get started:
 ## Development
 ```sh
 # clone the repo and move into the directory
-git clone https://github.com/mikehwagz/storylab.git && cd storylab
+git clone https://github.com/ksarvagya/storylab.git && cd storylab
 
 # install dependencies
 npm i
